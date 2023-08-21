@@ -1,5 +1,15 @@
 
-CMUdict
+CMUdict.yaml
+
+-------
+
+This is an implementation of the CMU Pronouncing Dictionary in the YAML format.
+It was created to provide ease of use for software that supports YAML dictionaries.
+
+-------
+
+Original readme:
+
 -------
 
 CMUdict (the Carnegie Mellon Pronouncing Dictionary) is a free
